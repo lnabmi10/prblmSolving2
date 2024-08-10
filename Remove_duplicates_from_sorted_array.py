@@ -14,9 +14,6 @@ class Solution(object):
         print(new_list)    
         nums.sort()
         k=len(new_list)
-        
-
-        
         return  k
     
     x=removeDuplicates("d",[0,0,1,1,1,1,2,2,2,3,3,3,4])
